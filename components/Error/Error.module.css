@@ -1,0 +1,18 @@
+
+.Error{
+    font-family: "poppins-thin";
+    /* width: 100%;
+    height: 100%; */
+    position: fixed;
+    inset:30% 30% 30% 30%;
+    z-index: 111111111;
+    margin:0 auto;
+    text-align: center;
+    border-radius: 50px;
+    background:#F18303 ;
+    background-color: #292F3F;
+    box-shadow:5px 5px 10px #cd6f03,-5px -5px 10px #ff9703;
+    text-align: center;
+    color:red;
+    text-transform: capitalize;
+}
